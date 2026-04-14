@@ -7,7 +7,7 @@ import Cart from "./components/Cart";
 import Steps from "./components/Steps";
 import Pricing from "./components/Pricing";
 import Footer from "./components/Footer";
-
+import Models from "./components/Models";
 
 import './App.css'
 
@@ -54,6 +54,7 @@ function App() {
         <Steps />
         <Pricing />
       </div>
+      <Models/>
 
       <Footer />
 

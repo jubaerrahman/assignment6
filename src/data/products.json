@@ -2,67 +2,85 @@
   {
     "id": 1,
     "name": "AI Writing Pro",
-    "description": "Generate high-quality content instantly.",
+    "description": "Generate high-quality content, blogs, and marketing copy in seconds with advanced AI.",
     "price": 29,
-    "period": "monthly",
+    "period": "mo",
     "tag": "Best Seller",
-    "tagType": "warning",
-    "features": ["Unlimited AI", "50+ templates", "Grammar check"],
-    "icon": "✍️"
+    "tagType": "best",
+    "features": [
+      "Unlimited AI generations",
+      "50+ writing templates",
+      "Grammar checker"
+    ]
   },
   {
     "id": 2,
     "name": "Design Templates Pack",
-    "description": "2000+ templates for creators.",
+    "description": "2000+ premium templates for social media, presentations, and marketing materials.",
     "price": 49,
     "period": "one-time",
     "tag": "Popular",
-    "tagType": "info",
-    "features": ["2000+ templates", "Commercial use", "Updates"],
-    "icon": "🎨"
+    "tagType": "popular",
+    "features": [
+      "2000+ templates",
+      "Monthly updates",
+      "Commercial license"
+    ]
   },
   {
     "id": 3,
     "name": "Premium Stock Assets",
-    "description": "Millions of stock assets.",
+    "description": "Access millions of royalty-free photos, videos, and graphics for your projects.",
     "price": 19,
-    "period": "monthly",
+    "period": "mo",
     "tag": "New",
-    "tagType": "success",
-    "features": ["10M+ assets", "No attribution", "Commercial use"],
-    "icon": "📸"
+    "tagType": "new",
+    "features": [
+      "10M+ assets",
+      "Commercial use",
+      "No attribution"
+    ]
   },
   {
     "id": 4,
     "name": "Automation Toolkit",
-    "description": "Automate workflows easily.",
+    "description": "Automate repetitive tasks and streamline workflows with powerful tools.",
     "price": 79,
-    "period": "monthly",
+    "period": "mo",
     "tag": "Popular",
-    "tagType": "info",
-    "features": ["50+ automations", "API access", "Custom workflows"],
-    "icon": "⚙️"
+    "tagType": "popular",
+    "features": [
+      "50+ automations",
+      "API access",
+      "Custom workflows"
+    ]
   },
   {
     "id": 5,
     "name": "Resume Builder Pro",
-    "description": "Create professional resumes.",
+    "description": "Create professional resumes and cover letters that stand out and get hired.",
     "price": 15,
     "period": "one-time",
     "tag": "New",
-    "tagType": "success",
-    "features": ["100+ templates", "ATS optimized", "Export PDF"],
-    "icon": "📄"
+    "tagType": "new",
+    "features": [
+      "100+ templates",
+      "ATS optimization",
+      "Export to PDF"
+    ]
   },
   {
     "id": 6,
-    "name": "Social Media Kit",
-    "description": "Content for social platforms.",
+    "name": "Social Media Content Kit",
+    "description": "Complete toolkit for creating engaging social media content across platforms.",
     "price": 39,
-    "period": "monthly",
+    "period": "mo",
     "tag": "Best Seller",
-    "tagType": "warning",
-    "features": ["5000+ assets", "Scheduler", "Analytics"],
-    "icon": "📱"
+    "tagType": "best",
+    "features": [
+      "5000+ assets",
+      "Content scheduler",
+      "Analytics dashboard"
+    ]
   }
 ]
